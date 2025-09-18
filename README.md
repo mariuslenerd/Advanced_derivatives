@@ -1,8 +1,17 @@
-# Advanced derivatives
-Repository to store and update all the work done in the advanced derivatives class. Financial Engineering 2nd year master students. 
+# Advanced Derivatives (FIN-503)  
 
-We will be given assignments throughout the semester which will be handed out to the professor Ms. Elena Perazzi. 
+This repository contains coursework and assignments for **FIN-503: Advanced Derivatives**, part of the **Master of Financial Engineering (MFE)** program at **EPFL**.  
 
-The assignments are done in groups of three. 
+---
 
-For now, only assignment 1 is published as we have not received the other ones.
+## Overview  
+
+The repository is intended to organize and track all work completed during the **Advanced Derivatives** course. Students work in **groups of three** to complete assignments, which are submitted to **Prof. Elena Perazzi**.  
+
+Currently, only **Assignment 1** has been added, as the remaining assignments have not yet been released.  
+
+---
+
+  
+
+
